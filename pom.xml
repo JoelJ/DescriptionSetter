@@ -8,7 +8,7 @@
 
   <groupId>com.attask.jenkins.descriptionsetter</groupId>
   <artifactId>DescriptionSetter</artifactId>
-  <version>1.0.3-ATTASK</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <!-- get every artifact through maven.glassfish.org, which proxies all the artifacts that we need -->
